@@ -12,4 +12,4 @@
 
 📫 How to Reach Me: Connect with me on LinkedIn.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zacchaeuschok&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zacchaeuschok&theme=transparent)](https://git.io/streak-stats)
